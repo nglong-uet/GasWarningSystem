@@ -1,0 +1,8 @@
+../Core/Src/i2c_lcd.c:6:6:I2C1_Init	4	static
+../Core/Src/i2c_lcd.c:23:6:I2C1_SendBytes	24	static
+../Core/Src/i2c_lcd.c:53:6:LCD_SendCommand	24	static
+../Core/Src/i2c_lcd.c:63:6:LCD_SendData	24	static
+../Core/Src/i2c_lcd.c:73:6:LCD_SendString	16	static
+../Core/Src/i2c_lcd.c:79:6:LCD_Init	8	static
+../Core/Src/i2c_lcd.c:101:6:LCD_SetCursor	24	static
+../Core/Src/i2c_lcd.c:107:6:LCD_Clear	8	static

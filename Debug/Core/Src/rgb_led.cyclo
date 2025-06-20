@@ -1,0 +1,5 @@
+../Drivers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	2
+../Core/Src/rgb_led.c:6:6:RGB_LED_Init	1
+../Core/Src/rgb_led.c:16:6:TIM2_Init	1
+../Core/Src/rgb_led.c:25:6:RGB_LED_SetState	8
+../Core/Src/rgb_led.c:61:6:TIM2_IRQHandler	4

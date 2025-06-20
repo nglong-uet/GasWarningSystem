@@ -1,0 +1,3 @@
+../Core/Src/mq2_sensor.c:7:6:ADC_Init	1
+../Core/Src/mq2_sensor.c:22:7:MQ2_ReadPPM	12
+../Core/Src/mq2_sensor.c:62:9:GetGasAlertState	5
